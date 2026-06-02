@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rejitha%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20CSE%20Student%20%7C%20Turning%20Data%20into%20Insights&descAlignY=62&descSize=16" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rejitha%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%7C%20Turning%20Data%20into%20Meaningful%20Insights&descAlignY=62&descSize=16"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Rejitha+E+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+CSE+Student;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Building+Real-World+Data+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Rejitha+E+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+CSE+Student;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Passionate+about+Data-Driven+Insights" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,17 +19,13 @@ class Rejitha:
         self.college     = "Unnamalai Institute of Technology"
         self.stack       = ["Python", "SQL", "Power BI",
                             "HTML", "CSS", "JavaScript", "Excel"]
-        self.tools       = ["GitHub", "VS Code", "Canva"]
-        self.learning    = ["Advanced SQL", "Machine Learning",
-                            "Data Visualization", "Tableau"]
-        self.languages   = ["English", "Tamil"]
+        self.learning    = ["Machine Learning", "Advanced Power BI",
+                            "Data Visualization", "Statistics"]
         self.hobbies     = ["Watching Movies 🎬", "Playing Chess ♟️"]
-
-    def fun_fact(self):
-        return "I find hidden stories in data before they find me! 🔍"
+        self.fun_fact    = "I can beat you at chess AND analyze the game data 📊"
 
     def motto(self):
-        return "Data is the new oil — I'm here to refine it. ⚡"
+        return "Data tells a story — I make sure it's heard! 📈"
 
 me = Rejitha()
 print(me.motto())
@@ -39,20 +35,20 @@ print(me.motto())
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data & Analytics Tools**
+**Data & Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Tools & Platforms**
@@ -67,10 +63,10 @@ print(me.motto())
 
 <div align="center">
   <a href="https://github.com/rejitha2503">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rejitha2503&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=rejitha2503&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/rejitha2503">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rejitha2503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejitha2503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -100,30 +96,16 @@ print(me.motto())
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
 <div align="center">
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
-|:---:|:---:|:---|
-| [🎬 Movie Recommendation Website](https://github.com/rejitha2503) | Python · HTML · CSS · JavaScript | Personalized movie suggestions based on user preferences using algorithmic filtering |
-| [🧠 Programming Knowledge Quiz](https://github.com/rejitha2503) | HTML · CSS · JavaScript | Interactive quiz platform to test & improve coding skills through dynamic Q&A |
-| [📊 Sales Dashboard](https://github.com/rejitha2503) | Microsoft Excel | Data-driven sales performance tracker with trend visualization for decision making |
-| [👥 HR Analysis Dashboard](https://github.com/rejitha2503) | Power BI | Employee performance & workforce trend insights dashboard for HR decision making |
-
-</div>
-
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:---:|:---|:---|
-| 📜 | **Data Analytics Certification** | Novitech — Hands-on data analysis & visualization |
-| 🤖 | **AI & ML Certification** | Novitech — Foundations of Artificial Intelligence & Machine Learning |
-| 💻 | **Full-Stack Web Projects** | Built 4 real-world projects with Python, JS & Power BI |
+|:-----------|:---------|:-------------|
+| [🎬 Movie Recommendation Website](https://github.com/rejitha2503) | Python · HTML · CSS · JavaScript | Personalized movie suggestions based on user preferences; full-stack web app |
+| [🧠 Programming Knowledge Quiz](https://github.com/rejitha2503) | HTML · CSS · JavaScript | Interactive quiz platform to test & improve coding skills; dynamic question engine |
+| [📊 Sales Dashboard](https://github.com/rejitha2503) | Microsoft Excel | Visualizes sales performance trends; supports data-driven decision making |
+| [👥 HR Analysis Dashboard](https://github.com/rejitha2503) | Power BI | Monitors employee data & performance; provides workforce trend insights |
 
 </div>
 
@@ -133,9 +115,24 @@ print(me.motto())
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📍 Location |
-|:---:|:---:|:---:|:---:|
-| B.E. Computer Science Engineering | Unnamalai Institute of Technology | 2023 – 2027 | Kovilpatti, TN |
+| 🎓 Degree | 🏛️ Institution | 📅 Year | 
+|:----------|:---------------|:--------|
+| B.E. Computer Science Engineering | Unnamalai Institute of Technology, Kovilpatti | 2023 – 2024 (Expected) |
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | Achievement | Details |
+|:--:|:------------|:--------|
+| 📜 | Data Analytics Certification | Novitech — Hands-on data analysis & visualization |
+| 🤖 | AI & ML Certification | Novitech — Foundations of Artificial Intelligence & Machine Learning |
+| 💻 | Web Development Projects | Built 2 full-stack web applications (Movie Rec + Quiz) |
+| 📊 | Data Dashboards | Created Power BI HR dashboard & Excel Sales dashboard |
 
 </div>
 
@@ -144,24 +141,29 @@ print(me.motto())
 ## 🌱 Currently Learning
 
 ```
-🐍 Python       →  Pandas, NumPy, Matplotlib, Seaborn
-🗄️ SQL          →  Advanced Queries, Window Functions, Optimization
-📊 Power BI     →  DAX, Custom Visuals, Real-time Dashboards
-🤖 ML Basics    →  Scikit-learn, Regression, Classification Models
-☁️ Cloud        →  Google Colab, Jupyter Notebooks
+🧱 Machine Learning      → Supervised Learning, scikit-learn, Model Evaluation
+📊 Advanced Power BI     → DAX Formulas, Custom Visuals, Real-time Dashboards
+📐 Statistics            → Descriptive Stats, Probability, Hypothesis Testing
+🗄️  Database Mastery     → Advanced SQL, Query Optimization, Joins & Aggregations
 ```
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rejitha%20E-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rejitha-e)
-[![Gmail](https://img.shields.io/badge/Gmail-rejitha2503%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rejitha2503@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-rejitha2503@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rejitha2503@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rejitha2503-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rejitha2503)
-[![Profile Views](https://komarev.com/ghpvc/?username=rejitha2503&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/rejitha2503)
+[![Profile Views](https://komarev.com/ghpvc/?username=rejitha2503&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/rejitha2503)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+  <i>"Data tells a story — I make sure it's heard! 📈"</i>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
