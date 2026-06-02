@@ -135,7 +135,7 @@ print(me.motto())
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| B.E. Computer Science Engineering | Unnamalai Institute of Technology | 2023 – 2024 (Expected) | Kovilpatti, TN |
+| B.E. Computer Science Engineering | Unnamalai Institute of Technology | 2023 – 2027 | Kovilpatti, TN |
 
 </div>
 
