@@ -69,7 +69,7 @@ print(me.motto())
   <a href="https://github.com/Rejitha2503">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rejitha2503&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/Rejitha2503">
+  <a href="https://github.com/rejitha2503">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rejitha2503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
@@ -79,7 +79,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rejitha2503&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=rejitha2503&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -87,7 +87,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rejitha2503&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejitha2503&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -95,7 +95,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rejitha2503&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rejitha2503&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -106,10 +106,10 @@ print(me.motto())
 
 | 🚀 Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| [🎬 Movie Recommendation Website](https://github.com/Rejitha2503) | Python · HTML · CSS · JavaScript | Personalized movie suggestions based on user preferences using algorithmic filtering |
-| [🧠 Programming Knowledge Quiz](https://github.com/Rejitha2503) | HTML · CSS · JavaScript | Interactive quiz platform to test & improve coding skills through dynamic Q&A |
-| [📊 Sales Dashboard](https://github.com/Rejitha2503) | Microsoft Excel | Data-driven sales performance tracker with trend visualization for decision making |
-| [👥 HR Analysis Dashboard](https://github.com/Rejitha2503) | Power BI | Employee performance & workforce trend insights dashboard for HR decision making |
+| [🎬 Movie Recommendation Website](https://github.com/rejitha2503) | Python · HTML · CSS · JavaScript | Personalized movie suggestions based on user preferences using algorithmic filtering |
+| [🧠 Programming Knowledge Quiz](https://github.com/rejitha2503) | HTML · CSS · JavaScript | Interactive quiz platform to test & improve coding skills through dynamic Q&A |
+| [📊 Sales Dashboard](https://github.com/rejitha2503) | Microsoft Excel | Data-driven sales performance tracker with trend visualization for decision making |
+| [👥 HR Analysis Dashboard](https://github.com/rejitha2503) | Power BI | Employee performance & workforce trend insights dashboard for HR decision making |
 
 </div>
 
@@ -135,7 +135,7 @@ print(me.motto())
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| B.E. Computer Science Engineering | Unnamalai Institute of Technology | 2023 – 2024 (Expected) | Kovilpatti, TN |
+| B.E. Computer Science Engineering | Unnamalai Institute of Technology | 2023 – 2027 | Kovilpatti, TN |
 
 </div>
 
@@ -159,8 +159,8 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rejitha%20E-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rejitha-e)
 [![Gmail](https://img.shields.io/badge/Gmail-rejitha2503%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rejitha2503@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Rejitha2503-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rejitha2503)
-[![Profile Views](https://komarev.com/ghpvc/?username=Rejitha2503&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Rejitha2503)
+[![GitHub](https://img.shields.io/badge/GitHub-rejitha2503-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rejitha2503)
+[![Profile Views](https://komarev.com/ghpvc/?username=rejitha2503&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/rejitha2503)
 
 </div>
 
